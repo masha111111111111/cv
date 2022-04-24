@@ -3,9 +3,7 @@
 
 ***Contact information***
 
-
  **Phone** *+375296683400*
- 
  
  **email:** *machutka63@gmail.com*
  
