@@ -1,8 +1,16 @@
 ## **Chursina Maria**
+
+
 ***Contact information***
+
+
  **Phone** *+375296683400*
+ 
+ 
  **email:** *machutka63@gmail.com*
+ 
 **Telegram:** *@matrriok*
+
 *instagram:_manya__01__*
 
 ### ***Briefly About Myself***
