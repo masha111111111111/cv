@@ -1,7 +1,7 @@
 # **Chursina Maria**
 
 
-***Contact information***
+### **Contact information**
 
  **Phone** *+375296683400*
  
