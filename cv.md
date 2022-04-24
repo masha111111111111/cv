@@ -21,8 +21,9 @@ I'm new to programming language, but I'm already learning c++, assembler and man
 Now I am developing in various directions and I want to learn languages in which it will be possible to write many programs and games for children. and make money from it.
 
 
+### ***Skills***
 
-using namespace std;
+```using namespace std;
 
 int main(int argc, char* argv[])
 {
@@ -95,7 +96,7 @@ int main(int argc, char* argv[])
 	}
 	system("pause");
 	return 0;
-}
+}```
 
 
 
