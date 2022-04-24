@@ -22,7 +22,12 @@ Now I am developing in various directions and I want to learn languages in which
 
 
 ### ***Skills***
-
+1. assembler
+2. c++
+3. access
+4. excel
+5. word
+6. github
 ```
 using namespace std;
 
