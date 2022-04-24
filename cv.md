@@ -23,7 +23,8 @@ Now I am developing in various directions and I want to learn languages in which
 
 ### ***Skills***
 
-```using namespace std;
+```
+using namespace std;
 
 int main(int argc, char* argv[])
 {
@@ -96,7 +97,8 @@ int main(int argc, char* argv[])
 	}
 	system("pause");
 	return 0;
-} ```
+} 
+```
 
 
 
