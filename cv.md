@@ -122,5 +122,5 @@ int main(int argc, char* argv[])
 * Blair English
 ##
 **Languages:
-English - I've been studying at school since 3rd grade, I don't know it very well, but also not bad. In general, I strive to improve my English language skills.
+English - I've been studying at school since 3rd grade, I don't know it very well, but also not bad. In general, I strive to improve my English language skills.**
 
