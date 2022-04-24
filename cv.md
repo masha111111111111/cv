@@ -12,6 +12,7 @@
 *instagram:** *_manya__01__*
 
 ### ***Briefly About Myself***
+
 my goal is to get a good job in a good company,
 I don’t have my own work experience yet,
 but there is not much in other areas.
@@ -22,6 +23,7 @@ Now I am developing in various directions and I want to learn languages in which
 
 
 ### ***Skills***
+
 1. assembler
 2. c++
 3. access
