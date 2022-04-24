@@ -33,10 +33,10 @@ Now I am developing in various directions and I want to learn languages in which
 4. excel
 5. word
 6. github
-```
+
 ##
 **Code:**
-
+```
 using namespace std;
 
 int main(int argc, char* argv[])
