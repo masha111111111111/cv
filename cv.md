@@ -2,15 +2,15 @@
 
 
 ##
-**Contact information**
+**Contact information:**
 
- **Phone** *+375296683400*
+ **-Phone** *+375296683400*
  
- **email:** *machutka63@gmail.com*
+ **-email:** *machutka63@gmail.com*
  
-**Telegram:** *@matrriok*
+**-Telegram:** *@matrriok*
 
-*instagram:** *_manya__01__*
+*-instagram:** *_manya__01__*
 ##
 **Briefly About Myself**
 
