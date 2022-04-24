@@ -1,7 +1,7 @@
 ## **Chursina Maria**
 ### *+375296683400*
 # *email: machutka63@gmail.com*
-** my goal is to get a good job in a good company,
+**my goal is to get a good job in a good company,
 _I don’t have my own work experience yet,_
 _but there is not much in other areas._
 At the moment I am studying at VSU and I want to learn and acquire new knowledge that will help me in the future in developing and remembering my business**  
