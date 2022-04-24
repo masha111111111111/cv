@@ -11,7 +11,7 @@
 
 *instagram:** *_manya__01__*
 
-### **Briefly About Myself**
+## **Briefly About Myself**
 
 
 my goal is to get a good job in a good company,
@@ -23,7 +23,7 @@ I'm new to programming language, but I'm already learning c++, assembler and man
 Now I am developing in various directions and I want to learn languages in which it will be possible to write many programs and games for children. and make money from it.
 
 
-### **Skills**
+## **Skills**
 
 1. assembler
 2. c++
