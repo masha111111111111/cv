@@ -9,7 +9,7 @@
  
 **Telegram:** *@matrriok*
 
-*instagram:_manya__01__*
+*instagram:** *_manya__01__*
 
 ### ***Briefly About Myself***
 my goal is to get a good job in a good company,
