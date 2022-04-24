@@ -34,7 +34,7 @@ Now I am developing in various directions and I want to learn languages in which
 5. word
 6. github
 ```
-##
+
 **Code:**
 
 using namespace std;
